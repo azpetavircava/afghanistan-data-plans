@@ -64,3 +64,10 @@ layout: default
 
 　　希望这篇指南帮你避开我踩过的坑。放心，只要准备充分，在阿富汗保持联系没那么难。
 　　<<<END_
+
+<!-- crosslink -->
+---
+
+## 相关指南
+
+- [Afghanistan SIM 卡购买与激活指南](https://faciylike.github.io/afghanistan-sim-guides)
